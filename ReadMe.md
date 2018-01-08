@@ -1,7 +1,5 @@
-<DOCTYPE!html>
 <html>
   <title>
-    <title>Home</title>
     <link rel="stylesheet" type="text/css" href="file.css">
   </title>
   <body>
