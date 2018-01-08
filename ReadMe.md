@@ -1,9 +1,9 @@
 <DOCTYPE!html>
 <html>
-  <title>
+  <head>
     <title>Home</title>
     <link rel="stylesheet" type="text/css" href="file.css">
-  </title>
+  </head>
   <body>
     <h1 class="BIGASSTITLE">AI</h1>
     <h2>What is it?</h2>
