@@ -19,7 +19,7 @@
 }
 
 .parallax { 
-    background-image: url("img_parallax.jpg");
+    background-image: url("Background.jpeg");
     height: 500px; 
     background-attachment: fixed;
     background-position: center;
