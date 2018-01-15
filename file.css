@@ -8,4 +8,21 @@
     position: absolute;
     left: 100px;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 3px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+}
+
+.parallax { 
+    background-image: url("img_parallax.jpg");
+    height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
