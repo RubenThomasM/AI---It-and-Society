@@ -6,7 +6,7 @@
 
 .MEDIUMASSTITLE{
     position: absolute;
-    left: 100px;
+    text-align: center;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     background-color: #734C26; /* Brown */
     border: none;
