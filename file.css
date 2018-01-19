@@ -14,9 +14,10 @@
 
 .parallax { 
     background-image: url("Background.jpeg");
-    height: 500px; 
+    min-height: 500px; 
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    margin: 0;
 }
