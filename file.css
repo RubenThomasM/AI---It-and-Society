@@ -2,6 +2,8 @@
     font-size: 80px;
     text-align: center;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    position: absolute;
+    z-index: 1000;
 }
 
 .MEDIUMASSTITLE{
