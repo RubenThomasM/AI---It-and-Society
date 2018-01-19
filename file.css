@@ -2,7 +2,7 @@
     font-size: 80px;
     text-align: center;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-    position: absolute;
+    position: relative;
     z-index: 1000;
 }
 
