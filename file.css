@@ -53,7 +53,7 @@
   /* Keep the image from overlapping sibling elements. */
   z-index: -1;
 }
-/* Sets the actual background images to adorable kitties. This part is crucial. */
+/* Sets the actual background image. This part is crucial. */
 .bg1::after {
      background-image: url("Background.jpeg");
 }
