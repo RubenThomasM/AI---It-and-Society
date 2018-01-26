@@ -14,7 +14,8 @@
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     left: 15px;
     font-size: 20px;
-
+}
+    
 .wrapper {
   /* The height needs to be set to a fixed value for the effect to work.
    * 100vh is the full height of the viewport. */
