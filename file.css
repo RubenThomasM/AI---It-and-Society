@@ -67,3 +67,6 @@
     height: 100%;
 }
     
+.bg2::after{
+    background-image: url("AI-img.jpeg");   
+}
