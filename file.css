@@ -76,5 +76,7 @@ overflow: hidden;
 }
     
 .bg2::after{
-    background-image: url("AI-img.jpeg");   
+    background-image: url("AI-img.jpeg");
+    width: 110%
+        
 }
