@@ -41,6 +41,11 @@ overflow: hidden;
   position: relative;
   /* The height of the container. Must be set, but it doesn't really matter what the value is. */
   height: 100vh;
+    min-height: 100%;
+    background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center center;
 
   /* For text formatting. */
   display: flex;
