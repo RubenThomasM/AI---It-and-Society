@@ -1,3 +1,11 @@
+html {
+overflow: hidden;
+}
+
+body {
+overflow: hidden;
+}
+
 .BIGASSTITLE{
     font-size: 80px;
     text-align: center;
