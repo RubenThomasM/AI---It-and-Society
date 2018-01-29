@@ -78,11 +78,11 @@ margin: 0px;
 /* Sets the actual background image. This part is crucial. */
 .bg1::after {
     background-image: url("Background.jpeg");
-   background-attachment: fixed
+   
 }
     
 .bg2::after{
     background-image: url("AI-img.jpeg");
-    background-attachment: fixed
+    
         
 }
