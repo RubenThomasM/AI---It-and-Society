@@ -1,10 +1,14 @@
 html {
 overflow: hidden;
+height: 100%;
 }
 
 body {
-overflow: hidden;
-margin: 0px;
+margin: 0;
+padding: 0;
+height: 100%;
+overflow-y: scroll;
+overflow-x: hidden;
 }
 
 .BIGASSTITLE{
@@ -28,7 +32,8 @@ margin: 0px;
 .wrapper {
   /* The height needs to be set to a fixed value for the effect to work.
    * 100vh is the full height of the viewport. */
-  height: 100vh;
+  min-height: 100vh;
+  width: 100vw;
   /* The scaling of the images would add a horizontal scrollbar, so disable x overflow. */
   overflow-x: hidden;
   /* disenable scrolling on the page. */
