@@ -28,7 +28,7 @@ overflow-x: hidden;
     left: 15px;
     font-size: 20px;
 }
-    
+
 .wrapper {
   /* The height needs to be set to a fixed value for the effect to work.
    * 100vh is the full height of the viewport. */
@@ -49,7 +49,7 @@ overflow-x: hidden;
   height: 100vh;
     min-height: 100%;
     background-size: cover;
-	
+
 
   /* For text formatting. */
   display: flex;
@@ -82,11 +82,9 @@ overflow-x: hidden;
 /* Sets the actual background image. This part is crucial. */
 .bg1::after {
     background-image: url("Background.jpeg");
-   
+
 }
-    
+
 .bg2::after{
     background-image: url("AI-img.jpeg");
-    
-        
 }
