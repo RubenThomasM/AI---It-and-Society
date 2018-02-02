@@ -37,7 +37,7 @@ overflow-x: hidden;
   /* The scaling of the images would add a horizontal scrollbar, so disable x overflow. */
   overflow-x: hidden;
   /* disenable scrolling on the page. */
-  overflow-y: none;
+  overflow-y: hidden;
   /* Set the perspective to 2px. This is essentailly the simulated distance from the viewport to transformed objects.*/
   perspective: 2px;
 }
@@ -47,8 +47,8 @@ overflow-x: hidden;
   position: relative;
   /* The height of the container. Must be set, but it doesn't really matter what the value is. */
   height: 100vh;
-    min-height: 100%;
-    background-size: cover;
+  min-height: 100%;
+  background-size: cover;
 
 
   /* For text formatting. */
@@ -81,10 +81,10 @@ overflow-x: hidden;
 }
 /* Sets the actual background image. This part is crucial. */
 .bg1::after {
-    background-image: url("Background.jpeg");
+  background-image: url("Background.jpeg");
 
 }
 
 .bg2::after{
-    background-image: url("AI-img.jpeg");
+  background-image: url("AI-img.jpeg");
 }
