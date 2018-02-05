@@ -49,6 +49,9 @@ overflow-x: hidden;
   height: 100vh;
   min-height: 100%;
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
 
 
   /* For text formatting. */
@@ -67,9 +70,6 @@ overflow-x: hidden;
   right: 0;
   bottom: 0;
   left: 0;
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-attachment: fixed;
 
   /* Move the pseudo-element back away from the camera,
    * then scale it back up to fill the viewport.
