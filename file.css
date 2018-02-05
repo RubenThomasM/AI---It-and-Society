@@ -69,6 +69,8 @@ overflow-x: hidden;
   left: 0;
   background-repeat: no-repeat;
   background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
 
   /* Move the pseudo-element back away from the camera,
    * then scale it back up to fill the viewport.
