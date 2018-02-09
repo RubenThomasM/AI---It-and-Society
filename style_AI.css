@@ -40,4 +40,13 @@ overflow-x: hidden;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    
+    /* Text-Formating */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 0 0 5px #000;
+    margin: 0;
+    padding: 21px 0;
 }
