@@ -19,13 +19,12 @@ overflow-x: hidden;
 
 .MEDIUMASSTITLE{
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-    left: 100px;
+    text-align: center;
     font-size: 50px;
 }
 
 .NORMALASSTEXT{
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-    left: 15px;
     font-size: 20px;
 }
 .parallax { 
